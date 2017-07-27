@@ -1,0 +1,12 @@
+How to make an executable Jar file for our game
+
+1. File -> Project Structure -> Project Settings -> Artifacts -> Jar -> From modules with dependencies...
+2. Select Client.GameClient as the main class
+3. Extract to the target Jar
+4. OK
+5. Build -> Build Artifacts -> Select Jar -> Build
+6. Move the Jar file from /out/artifacts/[jar name]/ to the project directory (the same folder where src and resources are in)
+7. Run the Jar
+8. Yay!
+
+N.B. This process needs to be redone starting from step 5 if you wish for your Jar file to reflect any changes to the code you've made since last building the Jar

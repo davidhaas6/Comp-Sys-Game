@@ -9,10 +9,6 @@ A multiplayer 2D platformer racing game inspired by Mario.
 
 ## Gifs
 
-### Map Collision
-
-![](https://github.com/davidhaas6/Comp-Sys-Game/blob/master/resources/collision.gif)
-
 ### AI
 
 ![](https://github.com/davidhaas6/Comp-Sys-Game/blob/master/resources/ai.gif)
@@ -20,3 +16,7 @@ A multiplayer 2D platformer racing game inspired by Mario.
 ### Level Editor
 
 ![](https://github.com/davidhaas6/Comp-Sys-Game/blob/master/resources/editor.gif)
+
+### Map Collision
+
+![](https://github.com/davidhaas6/Comp-Sys-Game/blob/master/resources/collision.gif)

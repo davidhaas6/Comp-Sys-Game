@@ -12,12 +12,12 @@ Gifs
 
 *Map Collision*
 
-![](http://i.imgur.com/D7unMW5.gifv)
+![](https://github.com/davidhaas6/Comp-Sys-Game/blob/master/resources/collision.gif)
 
 *AI*
 
-![](http://i.imgur.com/WlDEuQa.gifv)
+![](https://github.com/davidhaas6/Comp-Sys-Game/blob/master/resources/ai.gif)
 
 *Level Editor*
 
-![](http://i.imgur.com/Ex1tSgL.gifv)
+![](https://github.com/davidhaas6/Comp-Sys-Game/blob/master/resources/editor.gif)
